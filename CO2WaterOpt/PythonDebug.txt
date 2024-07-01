@@ -1,0 +1,106 @@
+
+
+[0m[92m┌─────────────────────────────────────────────────────────────────────┐
+│ Using Flow reservoir simulator.                                    │
+└─────────────────────────────────────────────────────────────────────┘
+
+Simulating base case.
+
+[0m[92m┌───────┬──────────────────────┬──────────────────────────────────────┐
+│ INFO │ Module: Runner       │ Class: AbstractRunner                │
+├───────┴──────────────────────┴──────────────────────────────────────┤
+│ Using ExternalResult-type objective function.                       │
+└─────────────────────────────────────────────────────────────────────┘
+
+[0mThe external objective result reading from file is -3.68124e+10
+[92m┌───────┬──────────────────────┬──────────────────────────────────────┐
+│ INFO │ Module: Runner       │ Class: AbstractRunner                │
+├───────┴──────────────────────┴──────────────────────────────────────┤
+│ Base case objective function value set to -36812594726.509727       │
+└─────────────────────────────────────────────────────────────────────┘
+
+the production diff at time NPV time step 1 is 6969.807077019615 with 1.0
+the production diff at time NPV time step 2 is 7073.222664898148 with 0.9259259259259258
+the production diff at time NPV time step 3 is 7281.771868532462 with 0.8573388203017832
+the production diff at time NPV time step 4 is 7352.714174871573 with 0.7938322410201696
+the production diff at time NPV time step 5 is 7452.850117722606 with 0.7350298527964533
+the production diff at time NPV time step 6 is 7686.523330479453 with 0.6805831970337529
+the production diff at time NPV time step 7 is 7656.934877996566 with 0.6301696268831045
+the production diff at time NPV time step 8 is 7678.347399400685 with 0.5834903952621338
+the production diff at time NPV time step 9 is 7847.754462756857 with 0.5402688845019757
+the production diff at time NPV time step 10 is 7838.206260702049 with 0.5002489671314589
+the production diff at time NPV time step 11 is 7783.9651541095955 with 0.46319348808468414
+the production diff at time NPV time step 12 is 7088.48362585617 with 0.4288828593376705
+the production diff at time NPV time step 13 is 6593.04985288583 with 0.3971137586459912
+the production diff at time NPV time step 14 is 5571.880296180418 with 0.367697924672214
+the production diff at time NPV time step 15 is 4880.023373156117 with 0.34046104136316113
+the production diff at time NPV time step 16 is 4283.071507121334 with 0.31524170496588994
+the production diff at time NPV time step 17 is 3808.0872568872146 with 0.29189046756100917
+the production diff at time NPV time step 18 is 3423.3352027615765 with 0.2702689514453788
+the production diff at time NPV time step 19 is 3087.539906361475 with 0.2502490291160915
+the production diff at time NPV time step 20 is 2812.028347023035 with 0.231712063996381
+the production diff at time NPV time step 21 is 2583.288969278423 with 0.21454820740405645
+the production diff at time NPV time step 22 is 2388.3692805922765 with 0.19865574759634858
+the production diff at time NPV time step 23 is 2208.322122502839 with 0.18394050703365605
+the production diff at time NPV time step 24 is 2061.959285078221 with 0.17031528429042228
+the production diff at time NPV time step 25 is 1937.286205549317 with 0.15769933730594654
+the production diff at time NPV time step 26 is 1835.9118908271485 with 0.14601790491291344
+the production diff at time NPV time step 27 is 1741.2463830309862 with 0.1352017638082532
+
+
+the production diff at time NPV time step 1 is 1515150.0027725487 with 1.0
+the production diff at time NPV time step 2 is 1665300.0086601167 with 0.9259259259259258
+the production diff at time NPV time step 3 is 1660749.9885673346 with 0.8573388203017832
+the production diff at time NPV time step 4 is 1660750.0 with 0.7938322410201696
+the production diff at time NPV time step 5 is 1660750.0 with 0.7350298527964533
+the production diff at time NPV time step 6 is 1665300.0 with 0.6805831970337529
+the production diff at time NPV time step 7 is 1660750.0 with 0.6301696268831045
+the production diff at time NPV time step 8 is 1660750.0 with 0.5834903952621338
+the production diff at time NPV time step 9 is 1660750.0 with 0.5402688845019757
+the production diff at time NPV time step 10 is 1665300.0 with 0.5002489671314589
+the production diff at time NPV time step 11 is 1660750.0 with 0.46319348808468414
+the production diff at time NPV time step 12 is 1660750.0 with 0.4288828593376705
+the production diff at time NPV time step 13 is 1660749.996078182 with 0.3971137586459912
+the production diff at time NPV time step 14 is 1665299.9778801538 with 0.367697924672214
+the production diff at time NPV time step 15 is 1660749.9999999963 with 0.34046104136316113
+the production diff at time NPV time step 16 is 1660750.0 with 0.31524170496588994
+the production diff at time NPV time step 17 is 1660750.0000000037 with 0.29189046756100917
+the production diff at time NPV time step 18 is 1665299.9999999963 with 0.2702689514453788
+the production diff at time NPV time step 19 is 1660750.0 with 0.2502490291160915
+the production diff at time NPV time step 20 is 1660750.0000000037 with 0.231712063996381
+the production diff at time NPV time step 21 is 1660750.0 with 0.21454820740405645
+the production diff at time NPV time step 22 is 1665301.8621923476 with 0.19865574759634858
+the production diff at time NPV time step 23 is 1660746.2162168324 with 0.18394050703365605
+the production diff at time NPV time step 24 is 1660751.571974948 with 0.17031528429042228
+the production diff at time NPV time step 25 is 1660748.2756206244 with 0.15769933730594654
+the production diff at time NPV time step 26 is 1665301.7298588306 with 0.14601790491291344
+the production diff at time NPV time step 27 is 1660748.264661722 with 0.1352017638082532
+
+
+the production diff at time NPV time step 1 is 4.6089627716325125e-07 with 1.0
+the production diff at time NPV time step 2 is 0.0016927116999663316 with 0.9259259259259258
+the production diff at time NPV time step 3 is 0.02989543330863165 with 0.8573388203017832
+the production diff at time NPV time step 4 is 4.575752001255751 with 0.7938322410201696
+the production diff at time NPV time step 5 is 41.74831512070274 with 0.7350298527964533
+the production diff at time NPV time step 6 is 226.2198981402672 with 0.6805831970337529
+the production diff at time NPV time step 7 is 885.7608681979245 with 0.6301696268831045
+the production diff at time NPV time step 8 is 3038.918165818306 with 0.5834903952621338
+the production diff at time NPV time step 9 is 9046.63773410745 with 0.5402688845019757
+the production diff at time NPV time step 10 is 25248.153979826628 with 0.5002489671314589
+the production diff at time NPV time step 11 is 59605.87427226028 with 0.46319348808468414
+the production diff at time NPV time step 12 is 125149.5453339041 with 0.4288828593376705
+the production diff at time NPV time step 13 is 282967.9441029852 with 0.3971137586459912
+the production diff at time NPV time step 14 is 612702.56850944 with 0.367697924672214
+the production diff at time NPV time step 15 is 791986.4874158995 with 0.34046104136316113
+the production diff at time NPV time step 16 is 906523.917446811 with 0.31524170496588994
+the production diff at time NPV time step 17 is 997370.5970557574 with 0.29189046756100917
+the production diff at time NPV time step 18 is 1079870.1760002137 with 0.2702689514453788
+the production diff at time NPV time step 19 is 1141016.2955796244 with 0.2502490291160915
+the production diff at time NPV time step 20 is 1191441.042817779 with 0.231712063996381
+the production diff at time NPV time step 21 is 1229670.7536763698 with 0.21454820740405645
+the production diff at time NPV time step 22 is 1270969.0436111595 with 0.19865574759634858
+the production diff at time NPV time step 23 is 1295438.6153200418 with 0.18394050703365605
+the production diff at time NPV time step 24 is 1316739.830341965 with 0.17031528429042228
+the production diff at time NPV time step 25 is 1333921.8827169891 with 0.15769933730594654
+the production diff at time NPV time step 26 is 1353023.103178274 with 0.14601790491291344
+the production diff at time NPV time step 27 is 1365563.0177775864 with 0.1352017638082532

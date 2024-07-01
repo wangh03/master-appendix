@@ -1,0 +1,103 @@
+
+[0m[92m┌─────────────────────────────────────────────────────────────────────┐
+│ Using Flow reservoir simulator.                                    │
+└─────────────────────────────────────────────────────────────────────┘
+
+
+[0m[92m┌───────┬──────────────────────┬──────────────────────────────────────┐
+│ INFO │ Module: Runner       │ Class: AbstractRunner                │
+├───────┴──────────────────────┴──────────────────────────────────────┤
+│ Using NPV-type objective function.                                  │
+└─────────────────────────────────────────────────────────────────────┘
+
+[92m┌───────┬──────────────────────┬──────────────────────────────────────┐
+│ INFO │ Module: Runner       │ Class: AbstractRunner                │
+├───────┴──────────────────────┴──────────────────────────────────────┤
+│ Base case objective function value set to -37124269613.103569       │
+└─────────────────────────────────────────────────────────────────────┘
+
+ The production diff at NPV step discount_index 1 is 7769.99 use discount factor 1
+ The production diff at NPV step discount_index 2 is 7073.56 use discount factor 0.925926
+ The production diff at NPV step discount_index 3 is 7298.74 use discount factor 0.857339
+ The production diff at NPV step discount_index 4 is 7345.53 use discount factor 0.793832
+ The production diff at NPV step discount_index 5 is 7462.46 use discount factor 0.73503
+ The production diff at NPV step discount_index 6 is 7683.65 use discount factor 0.680583
+ The production diff at NPV step discount_index 7 is 7654.63 use discount factor 0.63017
+ The production diff at NPV step discount_index 8 is 7680.39 use discount factor 0.58349
+ The production diff at NPV step discount_index 9 is 7862.2 use discount factor 0.540269
+ The production diff at NPV step discount_index 10 is 7812.88 use discount factor 0.500249
+ The production diff at NPV step discount_index 11 is 7781.56 use discount factor 0.463193
+ The production diff at NPV step discount_index 12 is 7030.9 use discount factor 0.428883
+ The production diff at NPV step discount_index 13 is 6539.47 use discount factor 0.397114
+ The production diff at NPV step discount_index 14 is 5494.83 use discount factor 0.367698
+ The production diff at NPV step discount_index 15 is 4830.62 use discount factor 0.340461
+ The production diff at NPV step discount_index 16 is 4239.07 use discount factor 0.315242
+ The production diff at NPV step discount_index 17 is 3773.45 use discount factor 0.29189
+ The production diff at NPV step discount_index 18 is 3385.18 use discount factor 0.270269
+ The production diff at NPV step discount_index 19 is 3064.57 use discount factor 0.250249
+ The production diff at NPV step discount_index 20 is 2792.54 use discount factor 0.231712
+ The production diff at NPV step discount_index 21 is 2567.14 use discount factor 0.214548
+ The production diff at NPV step discount_index 22 is 2367.59 use discount factor 0.198656
+ The production diff at NPV step discount_index 23 is 2196.54 use discount factor 0.183941
+ The production diff at NPV step discount_index 24 is 2052 use discount factor 0.170315
+ The production diff at NPV step discount_index 25 is 1928.8 use discount factor 0.157699
+ The production diff at NPV step discount_index 26 is 1823.67 use discount factor 0.146018
+ The production diff at NPV step discount_index 27 is 1735.41 use discount factor 0.135202
+
+ The production diff at NPV step discount_index 1 is 1.66075e+06 use discount factor 1
+ The production diff at NPV step discount_index 2 is 1.66075e+06 use discount factor 0.925926
+ The production diff at NPV step discount_index 3 is 1.66075e+06 use discount factor 0.857339
+ The production diff at NPV step discount_index 4 is 1.66075e+06 use discount factor 0.793832
+ The production diff at NPV step discount_index 5 is 1.66075e+06 use discount factor 0.73503
+ The production diff at NPV step discount_index 6 is 1.66075e+06 use discount factor 0.680583
+ The production diff at NPV step discount_index 7 is 1.66075e+06 use discount factor 0.63017
+ The production diff at NPV step discount_index 8 is 1.66075e+06 use discount factor 0.58349
+ The production diff at NPV step discount_index 9 is 1.66075e+06 use discount factor 0.540269
+ The production diff at NPV step discount_index 10 is 1.66075e+06 use discount factor 0.500249
+ The production diff at NPV step discount_index 11 is 1.66075e+06 use discount factor 0.463193
+ The production diff at NPV step discount_index 12 is 1.66075e+06 use discount factor 0.428883
+ The production diff at NPV step discount_index 13 is 1.66143e+06 use discount factor 0.397114
+ The production diff at NPV step discount_index 14 is 1.66075e+06 use discount factor 0.367698
+ The production diff at NPV step discount_index 15 is 1.66075e+06 use discount factor 0.340461
+ The production diff at NPV step discount_index 16 is 1.66075e+06 use discount factor 0.315242
+ The production diff at NPV step discount_index 17 is 1.66075e+06 use discount factor 0.29189
+ The production diff at NPV step discount_index 18 is 1.66075e+06 use discount factor 0.270269
+ The production diff at NPV step discount_index 19 is 1.66075e+06 use discount factor 0.250249
+ The production diff at NPV step discount_index 20 is 1.66075e+06 use discount factor 0.231712
+ The production diff at NPV step discount_index 21 is 1.66075e+06 use discount factor 0.214548
+ The production diff at NPV step discount_index 22 is 1.66075e+06 use discount factor 0.198656
+ The production diff at NPV step discount_index 23 is 1.66075e+06 use discount factor 0.183941
+ The production diff at NPV step discount_index 24 is 1.66075e+06 use discount factor 0.170315
+ The production diff at NPV step discount_index 25 is 1.66075e+06 use discount factor 0.157699
+ The production diff at NPV step discount_index 26 is 1.66075e+06 use discount factor 0.146018
+ The production diff at NPV step discount_index 27 is 1.66075e+06 use discount factor 0.135202
+
+ The production diff at NPV step discount_index 1 is 0.00147265 use discount factor 1
+ The production diff at NPV step discount_index 2 is 0.00194128 use discount factor 0.925926
+ The production diff at NPV step discount_index 3 is 0.0342284 use discount factor 0.857339
+ The production diff at NPV step discount_index 4 is 4.98053 use discount factor 0.793832
+ The production diff at NPV step discount_index 5 is 45.041 use discount factor 0.73503
+ The production diff at NPV step discount_index 6 is 241.723 use discount factor 0.680583
+ The production diff at NPV step discount_index 7 is 941.347 use discount factor 0.63017
+ The production diff at NPV step discount_index 8 is 3219.96 use discount factor 0.58349
+ The production diff at NPV step discount_index 9 is 9549.54 use discount factor 0.540269
+ The production diff at NPV step discount_index 10 is 26524.2 use discount factor 0.500249
+ The production diff at NPV step discount_index 11 is 62354.5 use discount factor 0.463193
+ The production diff at NPV step discount_index 12 is 130367 use discount factor 0.428883
+ The production diff at NPV step discount_index 13 is 303860 use discount factor 0.397114
+ The production diff at NPV step discount_index 14 is 628564 use discount factor 0.367698
+ The production diff at NPV step discount_index 15 is 805119 use discount factor 0.340461
+ The production diff at NPV step discount_index 16 is 914673 use discount factor 0.315242
+ The production diff at NPV step discount_index 17 is 1.00402e+06 use discount factor 0.29189
+ The production diff at NPV step discount_index 18 is 1.08276e+06 use discount factor 0.270269
+ The production diff at NPV step discount_index 19 is 1.14551e+06 use discount factor 0.250249
+ The production diff at NPV step discount_index 20 is 1.19499e+06 use discount factor 0.231712
+ The production diff at NPV step discount_index 21 is 1.23235e+06 use discount factor 0.214548
+ The production diff at NPV step discount_index 22 is 1.2702e+06 use discount factor 0.198656
+ The production diff at NPV step discount_index 23 is 1.29731e+06 use discount factor 0.183941
+ The production diff at NPV step discount_index 24 is 1.31818e+06 use discount factor 0.170315
+ The production diff at NPV step discount_index 25 is 1.33509e+06 use discount factor 0.157699
+ The production diff at NPV step discount_index 26 is 1.35038e+06 use discount factor 0.146018
+ The production diff at NPV step discount_index 27 is 1.36664e+06 use discount factor 0.135202
+
+
